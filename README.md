@@ -1,1 +1,1 @@
-# Daily_Tweets-Analysis
+A simple Daily Tweet Analysing Project
